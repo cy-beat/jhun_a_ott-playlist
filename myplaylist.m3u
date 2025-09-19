@@ -1658,7 +1658,7 @@ https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Samsung-TVPlus-PH",4023 Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
-#EXTINF:-1group-title="Samsung-TVPlus-PH",4024 Leadstory Breaking News 
+#EXTINF:-1 group-title="Samsung-TVPlus-PH",4024 Leadstory Breaking News
 https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Samsung-TVPlus-PH",4027 France 24
@@ -1694,7 +1694,7 @@ https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 group-title="Samsung-TVPlus-PH",4084 Letterman TV
 https://d2q9uitg1qpepj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-843x0rz51uzj6/playlist.m3u8
 
-#EXTINF:-1,4085 River Monsters by ITV Studios
+#EXTINF:-1 group-title="Samsung-TVPlus-PH",4085 River Monsters by ITV Studios
 https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Samsung-TVPlus-PH",4088 Deal or No Deal
@@ -1813,6 +1813,7 @@ https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-a
 
 #EXTINF:-1 group-title="Samsung-TVPlus-PH",Dude Perfect
 https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.m3u8
+
 
 
 
