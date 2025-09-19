@@ -1651,6 +1651,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 **********Samsung TV Plus PH**********
 
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Samsung-TV-Plus-logo.png/revision/latest?cb=20230801020044"
+
 #EXTINF:-1,4020 Euronews World
 https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,4023 Bilyonaryo News Channel
@@ -1759,6 +1760,7 @@ https://amg01553-amg01553c1-samsung-ph-7144.playouts.now.amagi.tv/playlist.m3u8
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 #EXTINF:-1,Dude Perfect
 https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.m3u8
+
 
 
 
