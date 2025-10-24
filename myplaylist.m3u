@@ -1675,7 +1675,7 @@ https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH",Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",Leadstory Breaking News
+#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH",Leadstory Breaking News
 https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH",France 24
@@ -1833,6 +1833,7 @@ https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH",Disney_International_HD
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/stream_0.m3u8
+
 
 
 
