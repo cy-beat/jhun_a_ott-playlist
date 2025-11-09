@@ -559,7 +559,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Converge-TV", Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 http://136.239.159.18:6610/001/2/ch00000090990000001286//manifest.mpd?\AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
 
 
@@ -1337,6 +1337,7 @@ https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH",Disney_International_HD
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/stream_0.m3u8
+
 
 
 
