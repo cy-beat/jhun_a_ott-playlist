@@ -545,28 +545,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd
 
-**********Converge-TV**********
+**********Converge-TV [DOWN]**********
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTZXTtozcxJmpR7clnHYf9iegeWBOWKLytA&s"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Converge",Kapamilya Channel HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-https://vod.nathcreqtives.com/1286/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Converge", GMA 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-https://vod.nathcreqtives.com/1093/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Converge",Kapamilya_Online
-https://theworker.cybeat-08.workers.dev/UCstEtN0pgOmCf02EdXsGChw/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Converge",DZRH
-https://theworker.cybeat-08.workers.dev/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Converge",PTVPH
-https://theworker.cybeat-08.workers.dev/@ptvph/master.m3u8
 
 **********World-TV**********
 
@@ -1342,6 +1324,7 @@ https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH",Disney_International_HD
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/stream_0.m3u8
+
 
 
 
