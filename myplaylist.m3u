@@ -1174,11 +1174,14 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 #EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",Test 1
 https://utube.cocker-tk.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",Test 2
+#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",DZRH
+https://utube.cocker-tk.workers.dev/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",GMA 7 Live Stream
 https://theworker.cybeat-08.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",Test 3
-https://utube.cocker-tk.workers.dev/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",Encantadia Chronicles: Sang'gre
+https://theworker.cybeat-08.workers.dev/UCSkhK9ussOOZIbPQ8tMbRQw/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",Euronews World
@@ -1777,6 +1780,7 @@ https://mc-3e3ware29k.bunny.run/83/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mc-3e3ware29k.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="Converge - TV [Not For Sale]", XINGKONG
 https://mc-3e3ware29k.bunny.run/65/dopamine/manifest.mpd
+
 
 
 
