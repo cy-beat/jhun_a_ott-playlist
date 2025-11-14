@@ -566,6 +566,23 @@ http://vod.nathcreqtives.com/stream/convergenceinc/ihm/master.m3u8?u=phc&p=fd65e
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="PH Local Channel-TV [Not For Sale]",GMA 7 Live Stream 1
+https://utube.cocker-tk.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PH Local Channel-TV [Not For Sale]",DZRH Live Stream
+https://utube.cocker-tk.workers.dev/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PH Local Channel-TV [Not For Sale]",GMA 7 Live Stream 2
+https://theworker.cybeat-08.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PH Local Channel-TV [Not For Sale]",Sang'gre Live Stream
+https://theworker.cybeat-08.workers.dev/UCSkhK9ussOOZIbPQ8tMbRQw/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PH Local Channel-TV [Not For Sale]",Kapamilya Live Stream
+https://theworker.cybeat-08.workers.dev/UCstEtN0pgOmCf02EdXsGChw/master.m3u8
+
+
+
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg"
@@ -1171,18 +1188,6 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-1 group-logo="https://os-wordpress-media.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2022/08/31171422/Untitled-design-2022-08-31T171330.780.jpg"
 
-#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",Test 1
-https://utube.cocker-tk.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",DZRH
-https://utube.cocker-tk.workers.dev/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",GMA 7 Live Stream
-https://theworker.cybeat-08.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",Encantadia Chronicles: Sang'gre
-https://theworker.cybeat-08.workers.dev/UCSkhK9ussOOZIbPQ8tMbRQw/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",Euronews World
 https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
@@ -1780,6 +1785,7 @@ https://mc-3e3ware29k.bunny.run/83/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mc-3e3ware29k.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="Converge - TV [Not For Sale]", XINGKONG
 https://mc-3e3ware29k.bunny.run/65/dopamine/manifest.mpd
+
 
 
 
