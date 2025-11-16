@@ -599,6 +599,8 @@ https://theworker.cybeat-08.workers.dev/@abscbnnews/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GL2teQh.png" group-title="PH Local Channel-TV [Not For Sale]",UNTV News and Rescue Live Stream
 https://theworker.cybeat-08.workers.dev/@UNTVNewsandRescue/streams.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TeKCBK.png" group-title="PH Local Channel-TV [Not For Sale]",National Geographic Live Stream
+https://theworker.cybeat-08.workers.dev/@NatGeo/streams.m3u8
 
 **********World-TV**********
 
@@ -1807,6 +1809,7 @@ https://mc-5fythpik4t.bunny.run/83/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mc-5fythpik4t.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="Converge - TV [Not For Sale]", XINGKONG
 https://mc-5fythpik4t.bunny.run/65/dopamine/manifest.mpd
+
 
 
 
