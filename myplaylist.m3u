@@ -596,12 +596,6 @@ https://theworker.cybeat-08.workers.dev/UCs_VNu-FQ0WcJnD4QkmIL5w/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Awzkfgs.jpeg" group-title="PH Local Channel-TV [Not For Sale]",ABS-CBN News Live Stream
 https://theworker.cybeat-08.workers.dev/@abscbnnews/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="PH Local Channel-TV [Not For Sale]", NBA TV Philippines
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-https://ottb.live.cf.ww.aiv-cdn.net.../v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 **********World-TV**********
 
@@ -1810,6 +1804,7 @@ https://mc-5fythpik4t.bunny.run/83/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mc-5fythpik4t.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="Converge - TV [Not For Sale]", XINGKONG
 https://mc-5fythpik4t.bunny.run/65/dopamine/manifest.mpd
+
 
 
 
