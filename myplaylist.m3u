@@ -550,10 +550,14 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.
 #EXTINF:-1 group-logo="https://i.imgur.com/gCMNhzd.png"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH Local Channel-TV [Not For Sale]", GMA 7
-http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1093/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="PH Local Channel-TV [Not For Sale]", GTV
-http://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1143/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2L3JzLv.png" group-title="PH Local Channel-TV [Not For Sale]", Heart Of Asia
 http://vod.nathcreqtives.com/stream/convergenceinc/heartofasia/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
@@ -1462,6 +1466,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884587/hls/master.m3u8?includeAsse
 **********Converge - TV [Not For Sale]**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/p1hee3P.jpeg"
+
 
 
 
