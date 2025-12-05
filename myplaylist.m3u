@@ -606,8 +606,6 @@ https://theworker.cybeat-08.workers.dev/@UNTVNewsandRescue/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TeKCBK.png" group-title="PH Local Channel-TV [Not For Sale]",National Geographic Live Stream
 https://theworker.cybeat-08.workers.dev/@NatGeo/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gCMNhzd.png" group-title="PH Local Channel-TV [Not For Sale]",Now You See Me
-https://filemoon.to/e/kasp6594j45q/Now.You.See.Me.3.2025.1080p.HQ-HDTC.DIGITAL2.0.H.264-LMHD.mkv
 
 **********World-TV**********
 
@@ -1985,6 +1983,7 @@ https://converse.nathcreqtives.com/1175/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1147/manifest.mpd
+
 
 
 
