@@ -566,44 +566,43 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51nd4mQ.png" group-title="PH Local Channel-TV [Not For Sale]",GMA 7 Live Stream
-https://theworker.cybeat-08.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNihUKz.png" group-title="PH Local Channel-TV [Not For Sale]",DZRH Live Stream
-https://theworker.cybeat-08.workers.dev/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iNcUeQa.png" group-title="PH Local Channel-TV [Not For Sale]",GMA Integrated News Live Stream
-https://theworker.cybeat-08.workers.dev/UCqYw-CTd1dU2yGI71sEyqNw/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/UCqYw-CTd1dU2yGI71sEyqNw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnvjXPV.png" group-title="PH Local Channel-TV [Not For Sale]",PBB Live Stream
-https://theworker.cybeat-08.workers.dev/UCsumo4lY8cd4v8Xt5zG3eSg/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/UCsumo4lY8cd4v8Xt5zG3eSg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9gq7WN.png" group-title="PH Local Channel-TV [Not For Sale]",Kapamilya Live Stream
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766178528/ei/gGpFaa75MpaXvcAP2NiG0Aw/ip/136.158.1.237/id/ToDFvwRcQ5M.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/siu/1/bui/AYUSA3C5w-DDnuIIygPO140oVfy7pT6E4CRSuyFUWcH2U3ZLKMHyZnxCDnz95iZmspHIh8FeYQ/spc/wH4Qq_hDUnM5meTemAoaihLl6EmnA1M57olOl3C5rMUzk9s8z3nx/vprv/1/go/1/ns/mGSFksWBtxuHkOTdHyKMXp8R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/KahndocG2Sqa0a5jBZ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgD13yKwe2YXejHi4_pUlWY4JhCF6oUfNwop381w0lO7sCIG33H9_u7XDBirlToJZQaeLA6ruA57aeF-1f1qsuJDcu/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aYs0Dga.jpeg" group-title="PH Local Channel-TV [Not For Sale]",TV 5 Live Stream
-https://theworker.cybeat-08.workers.dev/UCiFx0kZFjR29u0uJxTSq5MQ/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/UCiFx0kZFjR29u0uJxTSq5MQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Bdez9J.png" group-title="PH Local Channel-TV [Not For Sale]",PTV Phlippines Live Stream
-https://theworker.cybeat-08.workers.dev/@ptvph/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/@ptvph/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="PH Local Channel-TV [Not For Sale]",One Sports PH Live Stream
-https://theworker.cybeat-08.workers.dev/@OneSportsPHL/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/@OneSportsPHL/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQT4ZTz.jpeg" group-title="PH Local Channel-TV [Not For Sale]",DZMM Teleradyo Live Stream
-https://theworker.cybeat-08.workers.dev/UCs_VNu-FQ0WcJnD4QkmIL5w/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/UCs_VNu-FQ0WcJnD4QkmIL5w/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Awzkfgs.jpeg" group-title="PH Local Channel-TV [Not For Sale]",ABS-CBN News Live Stream
-https://theworker.cybeat-08.workers.dev/@abscbnnews/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/@abscbnnews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GL2teQh.png" group-title="PH Local Channel-TV [Not For Sale]",UNTV News and Rescue Live Stream
-https://theworker.cybeat-08.workers.dev/@UNTVNewsandRescue/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/@UNTVNewsandRescue/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TeKCBK.png" group-title="PH Local Channel-TV [Not For Sale]",National Geographic Live Stream
-https://theworker.cybeat-08.workers.dev/@NatGeo/master.m3u8
+https://cybeat-tv.cybeat-08.workers.dev/@NatGeo/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmC9jyc.png" group-title="PH Local Channel-TV [Not For Sale]",Boomerang Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766178114/ei/4mhFacTAEMeW1d8Pnamq0Q0/ip/136.158.1.237/id/rEKifG2XUZg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/ss/1/ssa/1/siu/1/bui/AYUSA3BrxY_rXpWFQe2uaPmMRLDfOj3T_Bh3aWe9XS5em7VOrjFl-3wJF_0E4sM1FUpl-v9wmA/spc/wH4QqyF6ykNA9jRGznkzEv1ifX_HUJYp5pX1d05F5INboMS513w8/vprv/1/go/1/ns/dtVp1u2mYy1ziU36gRgmqpgR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/cwyqeKTVqUNZalZuEH/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdUlZg0t7CRyuN8TcdZ5toVQd9K7vfQHMMV_F-EvJDmACIHy4HV_zW3yTF7yCjNg3IjOmBtOfls1VR0N63djiyUaH/file/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmC9jyc.png" group-title="PH Local Channel-TV [Not For Sale]",TOM and JERRY in NY | 24 Hours Live Stream
+https://cybeat-tv.cybeat-08.workers.dev/UCmst562fALOY2cKb4IFgqEg/master.m3u8
 
 **********World-TV**********
 
@@ -1465,6 +1464,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884587/hls/master.m3u8?includeAsse
 **********Converge - TV [Not For Sale]**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/p1hee3P.jpeg"
+
 
 
 
