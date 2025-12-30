@@ -550,12 +550,26 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.
 #EXTINF:-1 group-logo="https://i.imgur.com/gCMNhzd.png"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH Local Channel-TV [Not For Sale]", GMA 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+https://honortvph.dpdns.org/1093/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="PH Local Channel-TV [Not For Sale]", GTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
+https://honortvph.dpdns.org/1143/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTEyW2U.png" group-title="PH Local Channel-TV [Not For Sale]", Kapatid Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf670bed2ea4905a114557e90e7ffb6:616059bec8dfb27f3524b7e7c31b6cff
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pphd_sdi1/default/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2L3JzLv.png" group-title="PH Local Channel-TV [Not For Sale]", Heart Of Asia
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDhBrB4.png" group-title="PH Local Channel-TV [Not For Sale]", iHeart Movies
 
@@ -1394,6 +1408,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884587/hls/master.m3u8?includeAsse
 **********Converge - TV [Not For Sale]**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/p1hee3P.jpeg"
+
 
 
 
