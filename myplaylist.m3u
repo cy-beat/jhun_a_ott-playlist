@@ -613,7 +613,7 @@ https://cybeat-tv.cybeat-08.workers.dev/@OneSportsPHL/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JxI2bDf.png" group-title="PH Local Channel-TV [Not For Sale]",DZMM Teleradyo Live Stream
 https://cybeat-tv.cybeat-08.workers.dev/UCs_VNu-FQ0WcJnD4QkmIL5w/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZK2JMFK.png" group-title="PH Local Channel-TV [Not For Sale]",ABS-CBN News Live Stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5EsFjeo.png" group-title="PH Local Channel-TV [Not For Sale]",ABS-CBN News Live Stream
 https://cybeat-tv.cybeat-08.workers.dev/@abscbnnews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GL2teQh.png" group-title="PH Local Channel-TV [Not For Sale]",UNTV News and Rescue Live Stream
@@ -1415,6 +1415,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884587/hls/master.m3u8?includeAsse
 **********Converge - TV [Not For Sale]**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/p1hee3P.jpeg"
+
 
 
 
