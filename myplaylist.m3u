@@ -586,7 +586,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/51nd4mQ.png" group-title="PH Local Channel-TV [Not For Sale]",GMA 7 Live Stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOOWqow.png" group-title="PH Local Channel-TV [Not For Sale]",GMA 7 Live Stream
 https://cybeat-tv.cybeat-08.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNihUKz.png" group-title="PH Local Channel-TV [Not For Sale]",DZRH Live Stream
@@ -1415,6 +1415,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884587/hls/master.m3u8?includeAsse
 **********Converge - TV [Not For Sale]**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/p1hee3P.jpeg"
+
 
 
 
