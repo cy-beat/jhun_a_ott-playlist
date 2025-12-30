@@ -604,7 +604,7 @@ https://cybeat-tv.cybeat-08.workers.dev/UCstEtN0pgOmCf02EdXsGChw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XWoQv0I.png" group-title="PH Local Channel-TV [Not For Sale]",TV 5 Live Stream
 https://cybeat-tv.cybeat-08.workers.dev/UCiFx0kZFjR29u0uJxTSq5MQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3Bdez9J.png" group-title="PH Local Channel-TV [Not For Sale]",PTV Phlippines Live Stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JdqqsCe.png" group-title="PH Local Channel-TV [Not For Sale]",PTV Phlippines Live Stream
 https://cybeat-tv.cybeat-08.workers.dev/@ptvph/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="PH Local Channel-TV [Not For Sale]",One Sports PH Live Stream
@@ -1415,6 +1415,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884587/hls/master.m3u8?includeAsse
 **********Converge - TV [Not For Sale]**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/p1hee3P.jpeg"
+
 
 
 
