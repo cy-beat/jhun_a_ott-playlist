@@ -1088,11 +1088,15 @@ https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/AniPlus/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="World - TV [Not For Sale]", GMA 7
+https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
+
 #EXTINF:-1 group-title="World - TV [Not For Sale]" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
 
 #EXTINF:-1 group-title="World - TV [Not For Sale]" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
+
 
 **********FM Radio**********
 
@@ -1602,7 +1606,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-id="617.astro" tvg-name="" tvg-logo="https://i.imgur.com/4MozyqM.png" group-title="Converge - TV [Not For Sale]", Nick Jr
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC
+#EXTINF:-1 group-title="Converge - TV [Not For Sale]" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC
 http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBisPOA.png" group-title="Converge - TV [Not For Sale]", CCTV4
@@ -1667,6 +1671,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v8
 	
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/EDGE_SPORT.png" group-title="Converge - TV [Not For Sale]", Edge Sports
 http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 
