@@ -621,7 +621,7 @@ https://cybeat-tv.cybeat-08.workers.dev/UCmst562fALOY2cKb4IFgqEg/master.m3u8
 
 **********World-TV**********
 
-#EXTINF:-1 group-logo="https://i.imgur.com/uon1HUT.jpeg"
+#EXTINF:-1 group-logo="https://i.imgur.com/A75C0qj.png"
 
 #EXTINF:-1 group-title="World - TV [Not For Sale]" tvg-id="" tvg-logo="https://i.imgur.com/2XFd4Hg.png" ,Grandstand
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1671,6 +1671,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v8
 	
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/EDGE_SPORT.png" group-title="Converge - TV [Not For Sale]", Edge Sports
 http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 
