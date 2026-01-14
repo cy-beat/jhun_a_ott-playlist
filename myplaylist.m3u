@@ -4,7 +4,7 @@
 
 **********Cignal-TV**********
 
-#EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
+#EXTINF:-1 group-logo="https://i.imgur.com/dI6B5sf.png"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="1" group-title="Cignal - TV [Not For Sale]", One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1156,7 +1156,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 **********Samsung-TVPlus-PH**********
 
-#EXTINF:-1 group-logo="https://os-wordpress-media.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2022/08/31171422/Untitled-design-2022-08-31T171330.780.jpg"
+#EXTINF:-1 group-logo="https://i.imgur.com/J5sn2Ek.png"
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung-TVPlus-PH [Not For Sale]",Euronews World
 https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
@@ -1328,7 +1328,7 @@ https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.
 
 **********TCL-TVPlus-PH**********
 
-#EXTINF:-1 group-logo="https://i.imgur.com/yccfaSZ.png"
+#EXTINF:-1 group-logo="https://i.imgur.com/EblDClU.png"
 
 #EXTINF:-1 tvg-logo="" group-title="TCL-TVPlus [Not For Sale]",Deal or No Deal
 https://amg00627-banijay-amg00627c3-tclideo-northamerica-641.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodeal-tclideonorthamerica/playlist.m3u8?device[did]=REPLACE_ME&device[dnt]=REPLACE_ME&gender=REPLACE_ME&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&url=REPLACE_ME&genre=REPLACE_ME&ic=REPLACE_ME&us_privacy=REPLACE_ME&gdpr=REPLACE_ME&gdpr_consent=REPLACE_ME&coppa=0&schain=REPLACE_ME&ifa_type=REPLACEME&device_make=REPLACE_ME&device_model=REPLACE_ME
@@ -1671,6 +1671,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v8
 	
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/EDGE_SPORT.png" group-title="Converge - TV [Not For Sale]", Edge Sports
 http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 
